@@ -1,0 +1,6 @@
+Reflexión de la semana 1
+​El uso responsable de la informacion en internet es la base fundamental para la participacion ciudadana, ya que nos permite tomar decisiones basadas
+en hecho sreales y no en desinformación. Esta misma disciplina de manejar datos con veracidad se conecta directamente con el trabajo técnico organizado;
+por ejemplo, al usar herramientas como Git, aplicamos un orden lógico y un historial transparente que garantiza la integridad de lo que construimos.
+Si mantenemos la información limpia y bien estructurada, no solo mejoramos la calidad de nuestros proyectos técnicos, sino que también fortalecemos
+el entorno digital en el que todos interactuamos como ciudadanos. 
