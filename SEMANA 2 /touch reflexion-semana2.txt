@@ -1,0 +1,8 @@
+Saber usar la terminal permite a un desarrollador moverse con velocidad y precisión 
+quirúrgica por estructuras de archivos complejas. Facilita la automatización de tareas
+mediante scripts y es indispensable para utilizar herramientas de control de versiones
+como Git. Además, ofrece un control total sobre el sistema, permitiendo gestionar
+permisos y entornos que la interfaz gráfica limita. Dominarla no es solo una preferencia,
+sino una necesidad para la administración de servidores y el despliegue de software.
+Dominarla te ayuda a entender cómo funciona tu compu por dentro y te salva la vida
+cuando algo falla y no hay ventanitas que tocar. Al final, trabajas mucho más fluido y sin tantas distracciones visuales.
