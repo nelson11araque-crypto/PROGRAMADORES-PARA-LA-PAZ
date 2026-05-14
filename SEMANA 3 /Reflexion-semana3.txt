@@ -1,0 +1,6 @@
+El uso de herramientas como Git es fundamental en los proyectos de software porque permite mantener un registro organizado de todos los cambios realizados en el código.
+Esto ayuda a los desarrolladores a trabajar de manera más segura y eficiente. Además,facilita la colaboración entre varios integrantes del equipo,
+evitando conflictos y pérdidas de información. Git también permite volver a versiones anteriores si ocurre
+algún error o problema en el sistema. Gracias al historial de cambios, es posible identificar quién realizó cada modificación y cuándo se hizo. Esto mejora el control y la administración del proyecto. Otra ventaja es que
+permite probar nuevas ideas sin afectar la versión principal del software. En conclusión, llevar un registro de
+cambios con Git mejora la calidad, la organización y el mantenimiento de los proyectos de software.
